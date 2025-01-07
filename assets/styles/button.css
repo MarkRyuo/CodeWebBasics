@@ -4,6 +4,8 @@
   border-radius: 5px;
   cursor: pointer;
   padding: 5px 20px;
+  width: 100px;
+  height: 30px;
   background-color:#ff0033;
   color: #fff;
 }
