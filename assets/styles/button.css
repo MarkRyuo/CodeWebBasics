@@ -12,10 +12,16 @@
 
 .AddBox {
   border: none;
-  width: 130px;
+  width: 150;
   height: 40px;
   background-color: #3b6fff;
   color: #fff;
   border-radius: 10px;
   padding: 10px 20px;
+  cursor: pointer;
+}
+
+.AddBox span {
+  /* padding-right: px; */
+  font-size: 1.2rem;
 }
