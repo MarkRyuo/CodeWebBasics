@@ -24,3 +24,9 @@
 .AddBox span {
   padding-right: 5px;
 }
+
+.EditBox {
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
