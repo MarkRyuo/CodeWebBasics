@@ -1,5 +1,6 @@
 
 .SubsBox {
+  border: none;
   border-radius: 5px;
   cursor: pointer;
   padding: 5px 20px;
