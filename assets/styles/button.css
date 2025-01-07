@@ -26,9 +26,11 @@
 }
 
 .EditBox {
-  border: 1px solid;
+  border: 0.9px solid #71aaff;
   border-radius: 20px;
   padding: 5px 15px;
   background-color: #252525;
   color: #fff;
+  width: 100px;
+  height: 35px;
 }
