@@ -61,4 +61,8 @@
 
 .SignBox {
   background-color: rgb(46, 164, 79);
+  color: #fff;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 10px;
 }
