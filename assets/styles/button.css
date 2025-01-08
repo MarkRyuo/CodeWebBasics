@@ -67,3 +67,9 @@
   font-size: 10px;
   cursor: pointer;
 }
+
+.GetBox {
+  background-color: rgb(121, 82, 179);
+  color: #fff;
+  border-radius: 5px;
+}
