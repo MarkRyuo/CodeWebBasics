@@ -34,6 +34,7 @@
 
 .btn-add {
   background-color: rgb(255, 216, 20);
+  transition: opacity 1s;
 }
 
 .btn-add:hover {
@@ -50,7 +51,7 @@
   /* background-color: rgb(255, 164, 28); */
   background-color: inherit;
   border: 0.6px solid #383838;
-  
+
 }
 
 .btn-buy:hover{
@@ -60,5 +61,5 @@
 }
 
 .btn-buy:active {
-  opacity: 0.6;
+  opacity: 0.6; 
 }
