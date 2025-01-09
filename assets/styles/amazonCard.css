@@ -53,10 +53,7 @@
   background-color: inherit;
   border: 0.6px solid #383838;
   transition: background-color 1s,
-    color 1s,
-    opacity 0.15s;
-  ;
-
+    color 1s,  ;
 }
 
 .btn-buy:hover{
@@ -67,4 +64,5 @@
 
 .btn-buy:active {
   opacity: 0.6; 
+  transition: opacity 1s;
 }
