@@ -36,6 +36,15 @@
   background-color: rgb(255, 216, 20);
 }
 
+.btn-add:hover {
+  /* background-color: rgb(255, 216, 20, 50%); */
+  opacity: 0.5;
+}
+
+.btn-add:active {
+  background-color: rgb(200, 255, 0);
+} 
+
 .btn-buy {
   background-color: rgb(255, 164, 28);
 }
