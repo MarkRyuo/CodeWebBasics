@@ -48,9 +48,15 @@
 .btn-buy {
   /* background-color: rgb(255, 164, 28); */
   background-color: inherit;
+  border: 0.6px solid #383838;
 }
 
 .btn-buy:hover{
   background-color: rgb(255, 164, 28);
   color: #fff;
+  border: none;
+}
+
+.btn-buy:active {
+  opacity: 0.6;
 }
