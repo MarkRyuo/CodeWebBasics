@@ -22,3 +22,11 @@
 .card-Stock {
   color: rgb(0, 118, 0);
 }
+
+.btn {
+  color: #000;
+  border: none;
+  width: 100px;
+  height: 30px;
+
+}
