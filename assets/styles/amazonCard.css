@@ -2,7 +2,6 @@
 
 .card {
   border: 1px solid;
-  
 }
 
 .card-Link {
@@ -44,8 +43,11 @@
 .btn-add:active {
   opacity: 0.5;
 }
- 
+
 
 .btn-buy {
-  background-color: rgb(255, 164, 28);
+  /* background-color: rgb(255, 164, 28); */
+  background-color: inherit;
 }
+
+.btn-buy:hover
