@@ -9,6 +9,7 @@
 .card-Link {
   color: rgb(0, 113, 133);
   text-decoration: none;
+  
 }
 
 .card-Title {
@@ -43,7 +44,7 @@
   transition: opacity 0.15, 
   background-color 0.15s,;
   box-shadow: 1px 2px 3px rgba(160, 160, 160, 0.5);
-  
+  cursor: pointer;
 }
 
 .btn-add:hover {
