@@ -98,7 +98,11 @@
 
 .pagination-btn:hover {
   background-color: #fff;
-  
+  color: #000;
+}
+
+.pagination-btn:active {
+  opacity: 0.5;
 }
 
 .btn-next {
