@@ -84,7 +84,8 @@
 /* !Footer */
 
 .pagination-box {
-  border: 1px solid #313131;
+  /* border: 1px solid #313131; */
+  margin-top: 10px;
 
 }
 
