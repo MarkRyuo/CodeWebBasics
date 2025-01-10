@@ -45,8 +45,7 @@
 }
 
 .btn-add:hover {
-  /* background-color: rgb(255, 216, 20, 50%); */
-  opacity: 0.5;
+  background-color: rgb(255, 216, 20, 50%)
 }
 
 .btn-add:active {
@@ -131,5 +130,5 @@
 
 .pagination-num:active {
   opacity: 0.5;
-  color: rgb(104, 156, 252);
+  color: rgb(255, 174, 0);
 }
