@@ -8,6 +8,7 @@
 
 .card-Link {
   color: rgb(0, 113, 133);
+  text-decoration: none;
 }
 
 .card-Title {
@@ -67,4 +68,9 @@
 .btn-buy:active {
   opacity: 0.6; 
   transition: opacity 1s;
+}
+
+
+.card-Link:hover {
+
 }
