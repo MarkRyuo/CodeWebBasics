@@ -72,5 +72,6 @@
 
 
 .card-Link:hover {
-
+  transition: opacity 0.15s;
+  opacity: 0.5;
 }
