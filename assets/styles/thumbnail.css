@@ -27,6 +27,6 @@
   border-radius: 50px;
 }
 
-.thumbnail2, .thumbnail-container:active {
+.thumbnail2,.thumbnail-container:active {
   opacity: 0.5;
 }
