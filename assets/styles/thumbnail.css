@@ -52,6 +52,7 @@ input {
   height: 30px;
   vertical-align: middle;
   width: 200px;
+  border: none;
 }
 
 .tweet-btn {
@@ -59,7 +60,7 @@ input {
   vertical-align: middle;
   border: none;
   background-color: rgb(103, 164, 255);
-  border-radius: 5px;
+  border-radius: 20px;
   color: #fff;
   font-weight: 600;
 }
