@@ -6,6 +6,7 @@
   width: 500px;
   padding: 10px;
   font-family: Arial;
+  border-radius: 10px;
 }
 
 .card-title {
