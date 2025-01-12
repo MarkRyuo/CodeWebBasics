@@ -15,23 +15,18 @@
 
 
 
-.thumbnail2 {
+.thumbnail2, .thumbnail-container {
   width: 300px;
   border-radius: 20px;
   transition: width 0.5s, border-radius 0.5s, opacity 0.5s;
 }
 
 
-.thumbnail2:hover {
+.thumbnail2, .thumbnail-container:hover {
   width: 500px;
   border-radius: 50px;
 }
 
-.thumbnail2:active {
+.thumbnail2, .thumbnail-container:active {
   opacity: 0.5;
-}
-
-.thumbnail-container {
-  border: 1px solid #5c5c5c;
-  width: 300px;
 }
