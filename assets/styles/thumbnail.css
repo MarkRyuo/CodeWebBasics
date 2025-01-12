@@ -19,10 +19,11 @@
   width: 300px;
   border-radius: 20px;
   transition: width 0.5s, border-radius 0.5s, opacity 0.5s;
+  cursor: pointer;
 }
 
 
-.thumbnail2, .thumbnail-container:hover {
+.thumbnail2:hover {
   width: 500px;
   border-radius: 50px;
 }
