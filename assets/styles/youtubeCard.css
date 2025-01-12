@@ -30,7 +30,7 @@
 .card-owner {
   text-decoration: none;
   transition: color 0.15s, opacity 0.15s,;
-
+  cursor: pointer;
 }
 
 .card-owner:hover {
