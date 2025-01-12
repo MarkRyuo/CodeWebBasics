@@ -53,3 +53,7 @@ input {
   vertical-align: middle;
   width: 200px;
 }
+
+.tweet-btn {
+  padding: 5px 20px;
+}
