@@ -15,7 +15,7 @@
 
 
 
-.thumbnail2, .thumbnail-container {
+.thumbnail2 {
   width: 300px;
   border-radius: 20px;
   transition: width 0.5s, border-radius 0.5s, opacity 0.5s;
@@ -27,6 +27,6 @@
   border-radius: 50px;
 }
 
-.thumbnail2,.thumbnail-container:active {
+.thumbnail2:active {
   opacity: 0.5;
 }
