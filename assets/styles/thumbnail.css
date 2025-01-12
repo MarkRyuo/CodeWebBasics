@@ -14,7 +14,9 @@
 }
 
 
-.tumbnail
+.tumbnail-container {
+  border: 1px solid;
+}
 
 .thumbnail2 {
   width: 300px;
