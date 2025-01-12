@@ -27,6 +27,18 @@
   margin-top: 5px;
 }
 
+.card-owner {
+  text-decoration: none;
+}
+
+.card-owner:hover {
+  color: #43b4ff;
+}
+
+.card-owner:active {
+  opacity: 0.7;
+}
+
 .card-description {
   width: 290px;
 }
