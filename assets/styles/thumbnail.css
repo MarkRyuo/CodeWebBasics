@@ -59,5 +59,7 @@ input {
   vertical-align: middle;
   border: none;
   background-color: rgb(103, 164, 255);
-  border-radius: 10px;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 600px;
 }
