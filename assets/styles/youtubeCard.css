@@ -4,10 +4,10 @@
   border: 1px solid #646464;
   width: 500px;
   padding: 10px;
+  font-family: Arial;
 }
 
 .card-title {
-  font-family: Arial;
   font-size: 1.5rem;
   font-weight: 600;
   line-height: 25px;
