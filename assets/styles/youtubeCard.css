@@ -12,3 +12,7 @@
   font-weight: 600;
   line-height: 25px;
 }
+
+.card-text {
+  color: rgb(96, 96, 96);;
+}
