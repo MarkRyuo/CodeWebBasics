@@ -4,5 +4,6 @@
   border: 1px solid #5c5c5c;
   width: 300px;
   height: 300px;
-  
+  object-fit:contain;
+  object-position: bottom ;
 }
