@@ -1,0 +1,141 @@
+
+
+.card {
+  box-shadow: 1px 1px 2px rgba(160, 160, 160, 0.5);
+  padding: 20px;
+  width: 300px;
+}
+
+.card-Link {
+  color: rgb(0, 113, 133);
+  text-decoration: none;
+  cursor: pointer;
+  
+}
+
+.card-Title {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.card-Text {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.card-Stock {
+  color: rgb(0, 118, 0);
+}
+
+.btn {
+  color: #000;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-right: 10px;
+  transition: padding-right 0.15s;
+}
+
+.btn:hover{
+  padding-right: 30px;
+}
+
+.btn-add {
+  background-color: rgb(255, 216, 20);
+  transition: opacity 0.15, 
+  background-color 0.15s,;
+  box-shadow: 1px 2px 3px rgba(160, 160, 160, 0.5);
+  cursor: pointer;
+}
+
+.btn-add:hover {
+  background-color: rgb(255, 216, 20, 50%);
+}
+
+.btn-add:active {
+  opacity: 0.5;
+}
+
+
+.btn-buy {
+  /* background-color: rgb(255, 164, 28); */
+  background-color: inherit;
+  /* border: 0.6px solid #383838; */
+  cursor: pointer;
+  box-shadow: 1px 1px 2px rgba(160, 160, 160, 0.5);
+  transition: background-color 0.15s,
+    color 1s,  ;
+}
+
+.btn-buy:hover{
+  background-color: rgb(255, 164, 28);
+  color: #fff;
+  border: none;
+}
+
+.btn-buy:active {
+  opacity: 0.6; 
+  transition: opacity 1s;
+}
+
+
+.card-Link:hover {
+  transition: opacity 0.15s;
+  opacity: 0.5;
+}
+
+
+/* !Footer */
+
+.pagination-box {
+  /* border: 1px solid #313131; */
+  margin-top: 10px;
+
+}
+
+.pagination-btn {
+  border: none;
+  padding: 5px 15px;
+  margin: 0px 5px;
+  box-shadow: 1px 1px 2px rgba(160, 160, 160, 0.5);
+  border-radius: 5px;
+  cursor: pointer;
+
+  transition: background-color 0.15s, 
+  color 0.15s,
+  opacity 0.15s,
+  padding-left 0.15s,
+  padding-right 0.15s; 
+  ;
+}
+
+.pagination-btn:hover {
+  background-color: #fff;
+  color: #000;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.pagination-btn:active {
+  opacity: 0.5;
+}
+
+.btn-next {
+  background-color: rgb(104, 156, 252);
+  color: #fff;
+}
+
+.pagination-num {
+  text-decoration: none;
+  padding: 0px 5px;
+  cursor: pointer;
+}
+
+.pagination-num:hover {
+  text-decoration: underline;
+}
+
+.pagination-num:active {
+  opacity: 0.5;
+  color: rgb(255, 174, 0);
+}
