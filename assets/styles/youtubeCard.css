@@ -20,3 +20,7 @@
   font-weight: lighter ;
   font-size: 0.9rem;
 }
+
+.card-description {
+  width: 290px;
+}
