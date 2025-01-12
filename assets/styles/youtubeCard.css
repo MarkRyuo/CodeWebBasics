@@ -13,12 +13,17 @@
   font-size: 1.5rem;
   font-weight: 600;
   line-height: 25px;
+  margin-bottom: 10px;
 }
 
 .card-text {
   color: rgb(96, 96, 96);
   font-weight: lighter ;
   font-size: 0.9rem;
+}
+
+.card-date {
+  margin-top: 5px;
 }
 
 .card-description {
