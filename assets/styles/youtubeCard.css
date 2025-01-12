@@ -57,4 +57,7 @@
   font-family: Arial;
 }
 
-.card-apple-text
+.card-apple-text {
+  font-size: 0.9rem
+}
+
