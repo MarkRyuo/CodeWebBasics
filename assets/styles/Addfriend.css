@@ -33,3 +33,6 @@ img:hover {
   font-weight: 600;
 }
 
+.btn {
+  display: block;
+}
