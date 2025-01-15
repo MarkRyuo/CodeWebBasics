@@ -3,9 +3,10 @@
 input {
   font-size: 1;
   padding: 5px;
-  width: 150px;
+  width: 120px;
 }
 
 .email-input {
   display: block;
+  width: 257px;
 }
