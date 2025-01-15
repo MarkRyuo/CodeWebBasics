@@ -21,3 +21,12 @@ input {
   display: block;
   width: 265px;
 }
+
+.sign-up-btn {
+  border: none;
+  background-color: rgb(57, 117, 233);
+  color: #fff;
+  text-align: center;
+  width: 285px;
+  padding: 10px;
+}
