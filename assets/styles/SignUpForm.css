@@ -1,7 +1,7 @@
 
 
 .sign-up-form {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   display: inline-block;
   padding: 10px;
 }
@@ -33,6 +33,20 @@ input {
   font-family: Arial;
   font-weight: 600 ;
   font-size: 0.8rem ;
+  transition: opaxcity 0.3s;
 }
 
 /* ! animation */
+
+input:focus {
+  border: 1px solid rgb(21, 82, 248);
+  outline: none;
+}
+
+.sign-up-btn:hover {
+  opacity: 0.8;
+}
+
+.sign-up-btn:active {
+  opacity: 0.6;
+}
