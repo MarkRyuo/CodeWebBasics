@@ -16,6 +16,11 @@ img {
   border-top-right-radius: 10px;
 }
 
+img:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
 
 .card-content {
   padding: 15px;
