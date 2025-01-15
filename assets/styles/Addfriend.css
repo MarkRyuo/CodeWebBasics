@@ -42,3 +42,7 @@ img:hover {
   padding: 10px;
   width: 100%;
 }
+
+.add-btn {
+  background-color: rgba(8, 102, 255, 50%);
+}
