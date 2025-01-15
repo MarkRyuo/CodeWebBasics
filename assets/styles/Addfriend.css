@@ -44,10 +44,10 @@ img:hover {
 }
 
 .add-btn {
-  background-color: rgba(8, 102, 255, 50%);
-  color: rgb(0, 81, 212);
+  background-color: rgba(8, 102, 255, 60%);
+  color: rgb(255, 255, 255);
 }
 
 .add-btn:hover {
-  opaxity: 0.8;
+  opacity: 0.8;
 }
