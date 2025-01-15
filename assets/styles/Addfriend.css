@@ -47,3 +47,7 @@ img:hover {
   background-color: rgba(8, 102, 255, 50%);
   color: rgb(0, 81, 212);
 }
+
+.add-btn:hover {
+  opaxity: 0.8;
+}
