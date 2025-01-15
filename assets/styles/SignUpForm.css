@@ -11,7 +11,7 @@ input {
   padding: 10px;
   width: 120px;
   border-radius: 5px;
-  border: 1px solid #535353;
+  border: 1px solid #838383;
   font-size: 0.8rem;
 }
 
@@ -29,4 +29,8 @@ input {
   text-align: center;
   width: 285px;
   padding: 10px;
+  border-radius: 5px;
+  font-family: Arial;
+  font-weight: 600 ;
+  font-size: 0.8rem ;
 }
