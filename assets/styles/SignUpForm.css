@@ -1,8 +1,13 @@
 
 
+.sign-up-form {
+  border: 1px solid red;
+  width: 500px;
+}
+
 input {
   font-size: 1;
-  padding: 5px;
+  padding: 10px;
   width: 120px;
   border-radius: 5px;
   border: 1px solid #535353;
@@ -12,5 +17,5 @@ input {
 .email-input {
   margin-top: 5px;
   display: block;
-  width: 257px;
+  width: ;
 }
