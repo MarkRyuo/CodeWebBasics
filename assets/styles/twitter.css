@@ -23,6 +23,7 @@
 img {
   width: 80px;
   border-radius: 50px;
+  transition: opacit;
 }
 
 .card-content {
@@ -71,5 +72,9 @@ button:hover {
 }
 
 img:hover {
-  opacity: ;
+  opacity: 0.8;
+}
+
+img:active {
+  opacity: 0.6;
 }
