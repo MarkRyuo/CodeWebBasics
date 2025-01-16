@@ -19,5 +19,6 @@ img {
 }
 
 .card-button {
-  display: ;
+  display: inline-block;
+  vertical-align: top;
 }
