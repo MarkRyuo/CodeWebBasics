@@ -18,7 +18,7 @@
 
 .card-image {
   display: inline-block;
-  margin-right: 5px ;
+  /* margin-right: 5px ; */
 }
 
 img {
@@ -28,6 +28,7 @@ img {
 
 .card-content {
   display: inline-block;
+  vertical-align: top;
 }
 
 .card-button {
@@ -36,5 +37,5 @@ img {
 }
 
 .card-text {
-  vertical-align: top;
+  margin: 10px 5px;
 }
