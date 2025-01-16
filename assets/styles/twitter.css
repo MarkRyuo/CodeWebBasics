@@ -47,3 +47,7 @@ img {
   font-weight: 600;
   color: #000000;
 }
+
+button {
+  padding: 5px 20px;
+}
