@@ -33,8 +33,7 @@ img {
 .card-button {
   display: inline-block;
   vertical-align: top;
-  border: 1px solid;
-  height: 80px;
+  /* border: 1px solid; */
 }
 
 .card-text {
@@ -59,4 +58,5 @@ button {
   background-color: #4293ee;
   font-weight: 600;
   font-size: 0.8rem;
+  margin-top: 20px;
 }
