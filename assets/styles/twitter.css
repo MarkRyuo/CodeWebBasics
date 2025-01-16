@@ -38,6 +38,7 @@ img {
 .card-text {
   margin: 5px;
   color: #505050;
+  width: 200px;
 }
 
 .card-author {
