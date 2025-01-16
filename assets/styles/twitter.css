@@ -23,7 +23,7 @@
 img {
   width: 80px;
   border-radius: 50px;
-  transition: opacit;
+  transition: opacity 0.15s;
 }
 
 .card-content {
