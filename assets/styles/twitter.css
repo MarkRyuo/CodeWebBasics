@@ -38,3 +38,7 @@ img {
 .card-text {
   margin: 5px;
 }
+
+.card-author {
+  font-weight: 600;
+}
