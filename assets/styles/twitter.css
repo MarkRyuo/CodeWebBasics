@@ -59,4 +59,9 @@ button {
   font-weight: 600;
   font-size: 0.8rem;
   margin-top: 20px;
+  transition: opacity 0.15s;
+}
+
+button:hover {
+  opacity: 0.8;
 }
