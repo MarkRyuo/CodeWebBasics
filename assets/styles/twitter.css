@@ -33,6 +33,8 @@ img {
 .card-button {
   display: inline-block;
   vertical-align: top;
+  border: 1px solid;
+  height: 80px;
 }
 
 .card-text {
