@@ -21,7 +21,7 @@
 }
 
 img {
-  width: 100px;
+  width: 80px;
   border-radius: 50px;
 }
 
@@ -37,8 +37,10 @@ img {
 
 .card-text {
   margin: 5px;
+  color: #505050;
 }
 
 .card-author {
   font-weight: 600;
+  color: #000000;
 }
