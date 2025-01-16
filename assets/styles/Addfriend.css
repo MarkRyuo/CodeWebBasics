@@ -27,8 +27,6 @@ img:hover {
 
 img:active {
   width: 400px;
-  object-fit;
-  object-position: left;
 }
 
 
