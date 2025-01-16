@@ -63,9 +63,13 @@ button {
 }
 
 
-/* !Trans */
+/* !Transitions */
 
 
 button:hover {
   opacity: 0.8;
+}
+
+img:hover {
+  opacity: ;
 }
