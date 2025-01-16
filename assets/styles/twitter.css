@@ -50,4 +50,6 @@ img {
 
 button {
   padding: 5px 20px;
+  border: none;
+  cursor: pointer;
 }
