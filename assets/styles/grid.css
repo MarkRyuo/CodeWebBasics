@@ -9,10 +9,10 @@
   grid-template-columns: 1fr 1fr 1fr;
   height: 300px;
   column-gap: 10px;
-  row-gap: ;
+  row-gap: 10px;
 }
 
-.grid {
+.grid-item {
 
 }
 
