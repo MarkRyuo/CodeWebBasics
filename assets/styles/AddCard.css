@@ -6,5 +6,9 @@
 
 .card-container {
   border: 1px solid;
-  display: inlen;
+  display: inline-block;
+}
+
+.card-image {
+  
 }
