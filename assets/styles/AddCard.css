@@ -26,10 +26,11 @@
 
 .card-info, .card-container-button {
   padding: 10px;
-  font-weight: ;
+  font-weight: 400;
 }
 
 .card-text {
   margin: 5px 0px;
+  font-size: 300px;
 }
 
