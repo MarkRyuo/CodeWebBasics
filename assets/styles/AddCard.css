@@ -13,7 +13,6 @@
 
 
 .card-container {
-  border: 1px solid;
   display: inline-block;
   box-shadow: 1px 1px 2px #747474;
   border-radius: 10px;
@@ -25,6 +24,8 @@
 
 .card-image {
   width: 300px; /* *fix width 300px, changeable because we use grid*/
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10p;
 }
 
 .card-info, .card-container-button {
