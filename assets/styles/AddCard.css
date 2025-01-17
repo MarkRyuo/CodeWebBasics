@@ -32,7 +32,7 @@
   border-top-right-radius: 10px;
   object-fit: contain;
   object-position: center;
-  transition: opacity ;
+  transition: opacity 0.15s;
 }
 
 .card-info, .card-container-button {
