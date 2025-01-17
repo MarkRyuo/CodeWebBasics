@@ -10,7 +10,7 @@
   font-family: "Roboto", serif; 
   padding: 10px; /*! Temporary */
   display: grid;
-  grid-template-columns: 1fr 1fr ;
+  grid-template-columns: 1fr 1fr 1fr ;
   column-gap: 10px;
   row-gap: 15px;
 }
