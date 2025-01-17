@@ -60,5 +60,9 @@
 /* ?Transition */
 
 .addfriend:hover {
-  opacity: 0;
+  opacity: 0.8;
+}
+
+.addfriend:active {
+  opacity: ;
 }
