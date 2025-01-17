@@ -14,5 +14,6 @@
 }
 
 .card-image {
-  width: 300px;
+  width: 300px; /* *fix width 300px*/
 }
+
