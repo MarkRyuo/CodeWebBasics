@@ -6,9 +6,9 @@
 }
 
 
-/* .grid-container {
-
-} */
+.grid-container {
+  font-family: ;
+}
 
 
 .card-container {
@@ -29,6 +29,6 @@
 }
 
 .card-text {
-  margin: 2px 0px;
+  margin: 5px 0px;
 }
 
