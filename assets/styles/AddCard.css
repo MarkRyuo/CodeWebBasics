@@ -32,6 +32,7 @@
   border-top-right-radius: 10px;
   object-fit: contain;
   object-position: center;
+  transition: opacity ;
 }
 
 .card-info, .card-container-button {
@@ -75,4 +76,8 @@
 
 .addfriend:active {
   opacity: 0.6;
+}
+
+.card-image:hover {
+  opacity: 0.8;
 }
