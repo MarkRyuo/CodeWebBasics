@@ -14,7 +14,6 @@
 .card-container {
   border: 1px solid;
   display: inline-block;
-  padding: 10px;
 }
 
 .card-container-image {
@@ -24,4 +23,6 @@
 .card-image {
   width: 300px; /* *fix width 300px, changeable because we use grid*/
 }
+
+.card-info
 
