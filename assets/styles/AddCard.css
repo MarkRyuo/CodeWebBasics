@@ -16,15 +16,15 @@
   display: inline-block;
 }
 
-.card-container-image {
+/* .card-container-image {
 
-}
+} */
 
 .card-image {
   width: 300px; /* *fix width 300px, changeable because we use grid*/
 }
 
-.card-info, card-container-button {
+.card-info, .card-container-button {
   padding: 10px;
 }
 
