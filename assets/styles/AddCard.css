@@ -24,7 +24,7 @@
   width: 300px; /* *fix width 300px, changeable because we use grid*/
 }
 
-.card-info {
-  padding: 1px solid;
+.card-info, card-container-button {
+  padding: 10px;
 }
 
