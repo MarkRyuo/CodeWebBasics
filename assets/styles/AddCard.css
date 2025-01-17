@@ -54,6 +54,7 @@
 .addfriend {
   background-color: rgb(66, 147, 238) ;
   color: #ffff;
+  transition: opacity 0.15s;
 }
 
 
@@ -64,5 +65,5 @@
 }
 
 .addfriend:active {
-  opacity: ;
+  opacity: 0.6;
 }
