@@ -19,3 +19,8 @@ nav {
   border-radius: 50px;
 }
 
+.left-section {
+  display: flex;
+  align-items: center;
+}
+
