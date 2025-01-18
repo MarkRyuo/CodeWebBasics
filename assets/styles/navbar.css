@@ -31,3 +31,7 @@ nav {
 .left-section {
   width: 500px;
 }
+
+.middle-section {
+  flex: 1;
+}
