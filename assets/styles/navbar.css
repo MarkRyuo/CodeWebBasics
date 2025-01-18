@@ -34,11 +34,12 @@ nav {
 
 .middle-section {
   width: 100%;
- 
+  flex: 1;
   justify-content: space-evenly;
 }
 
 .right-section {
   width: 100%;
   max-width: 500px;
+  justify-content: end;
 }
