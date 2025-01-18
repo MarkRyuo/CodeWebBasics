@@ -2,7 +2,11 @@
 
 nav {
   display: flex;
-  
+
+}
+
+.facebook-logo {
+  width: 10;
 }
 
 .icon {
