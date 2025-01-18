@@ -34,8 +34,8 @@ nav {
 
 .middle-section {
   width: 100%;
-  max-width: 600px;
-  justify-content: ;
+ 
+  justify-content: space-evenly;
 }
 
 .right-section {
