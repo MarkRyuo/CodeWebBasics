@@ -35,3 +35,7 @@ nav {
 .middle-section {
   flex: 1;
 }
+
+.right-section {
+  width: 500pc;
+}
