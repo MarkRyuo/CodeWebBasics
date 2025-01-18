@@ -37,5 +37,5 @@ nav {
 }
 
 .right-section {
-  width: 500pc;
+  max-width: 500px;
 }
