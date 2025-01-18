@@ -19,7 +19,7 @@ nav {
   border-radius: 50px;
 }
 
-.left-section, .middle-section,  {
+.left-section, .middle-section, .right-section {
   display: flex;
   align-items: center;
   gap: 10px;
