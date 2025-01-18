@@ -1,9 +1,11 @@
 
 
 nav {
-
+  display: flex;
+  
 }
 
-.icons {
+.icon {
   width: 30px;
 }
+
